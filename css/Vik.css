@@ -1,0 +1,38 @@
+html { height: 100% }
+body {
+    background: #000000 url('AndromedaGalaxy.jpg') no-repeat fixed center;
+    font-family: arial;
+	width : 100%;
+	height: 100%;
+    }
+h1 {
+    background-color:#CCC;
+	text-shadow: 2px 0px 15px #292929;
+    border: 1px solid;
+    color:#000000;
+    text-align: center;
+    }
+
+table {
+    /*background-color: #F60;*/
+    /*border: 1px solid #39F;*/
+    width: 30%;
+	}
+td {
+    border: 0px;
+	color:orange;
+    text-align: center;
+    }
+p {
+    color:#09F;
+    text-indent: 20px;
+    }
+a {
+	color:#993300;
+  }
+#map-canvas
+{
+	width : 100%;
+	height: 100%;
+}
+
